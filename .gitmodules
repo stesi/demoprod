@@ -1,0 +1,4 @@
+[submodule "stesi/gles_mobile"]
+	path = stesi/gles_mobile
+	url = git@github.com:stesi/gles_mobile.git
+	branch = 14.0
